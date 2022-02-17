@@ -1,2 +1,2 @@
 # website
-Just learning GIthub Pages
+Just learning Github Pages
